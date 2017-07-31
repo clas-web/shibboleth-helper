@@ -3,10 +3,11 @@
 Plugin Name: Shibboleth Helper
 Plugin URI: https://github.com/clas-web/shibboleth-helper
 Description: The Shibboleth Helper is a colleciton of admin pages and filters designed to work the Shibboleth plugin.
-Version: 0.0.1
+Version: 0.1.1
 Author: Crystal Barton
 Author URI: https://www.linkedin.com/in/crystalbarton
 Network: True
+GitHub Plugin URI: https://github.com/clas-web/shibboleth-helper
 */
 
 
